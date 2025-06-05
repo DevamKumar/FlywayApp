@@ -1,4 +1,4 @@
-# Use a lightweight Java image
+# Use Java image
 FROM openjdk:24
 
 # Metadata
